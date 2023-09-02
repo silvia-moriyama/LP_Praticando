@@ -1,0 +1,19 @@
+{
+  "name": "lp_praticando",
+  "version": "1.0.0",
+  "description": "Testando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvia-moriyama/LP_Praticando.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvia-moriyama/LP_Praticando/issues"
+  },
+  "homepage": "https://github.com/silvia-moriyama/LP_Praticando#readme"
+}
